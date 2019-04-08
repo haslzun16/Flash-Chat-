@@ -1,4 +1,4 @@
-# Flash-Chat-
+# Flash-Chat
 
 ![](FlashChat2.gif)
 
