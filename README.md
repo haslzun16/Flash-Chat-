@@ -1,6 +1,6 @@
 # Flash-Chat-
 
-![](FlashChat1.mov)
+![](FlashChat2.gif)
 
 
 ## What I learned
